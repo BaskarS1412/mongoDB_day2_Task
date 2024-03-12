@@ -1,5 +1,8 @@
 # MongoDB Task
 
+## `mongoDB_day2_task_Querys.txt` file have only queryes.
+## `mongoDB_day2_task.txt` file have queryes and It's `OUTPUT`.
+
 ## Design database for Zen class programme
 
 -          users
